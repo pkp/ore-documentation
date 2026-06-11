@@ -1,8 +1,4 @@
-layout: page
-title: "Index"
-permalink: /
-
 # Open Research Europe Operating Manual
 ## Table of Contents
-- [Receiving Incoming Submissions](incoming-submissions)
-- [Peer Review](peer-review)
+- [Receiving Incoming Submissions](incoming-submissions.md)
+- [Peer Review](peer-review.md)
