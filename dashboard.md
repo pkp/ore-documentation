@@ -94,7 +94,7 @@ An editor can opt out of email notifications by changing [notification settings 
 
 When you’re ready to take a look at a specific submission, select the **View** button. This will take you to the submission record. In our example, the submission is in the Submission stage (i.e. it has not yet been sent to review).
 
-![A sample submission record.](./assets/sample-record-3.5.png)
+![A sample submission record.](./assets/sample-record-3.6.png)
 
 In addition to the author(s) and title at the top of the window, you will see a three column layout. The actions available to you will change at each stage, but the general layout will remain the same. Below, you’ll get to know each of the columns.
 
