@@ -236,5 +236,5 @@ When you are ready to send the message and any attachments, click OK at the bott
 If you have completed a task assigned to you, click the name of the task and check the box next to “Complete this task” under “Task Information”. You can also close a task/discussion by clicking the checkbox in the “Close” column from the list of tasks.
 > Note that while discussions can be reopened by Editors once closed, **tasks can never be reopened**. Be cautious when closing tasks. New messages can still be added to the task or discussion even after it is closed.
 {:.warning}
-![A task that has been closed using the close checkbox. The task is now in the “Closed” list.](./assets/URL.png)
+![A task that has been closed using the close checkbox. The task is now in the “Closed” list.](./assets/task-closed-3.6.png)
 
