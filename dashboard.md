@@ -171,23 +171,26 @@ You can select these files as attachments when sending notification emails as th
 
 ## Use Tasks and Discussions to Communicate {#tasks-discussions}
 
-OJS allows participants in each stage to communicate using discussions and tasks.
+OJS allows participants in each stage to communicate using discussions and tasks. 
+
 Discussions support ongoing communication and file sharing. 
-Tasks are actionable to-do items that can be assigned to specific users and tracked with due dates. Use tasks to identify, track, and share related files to action items that need to be completed during specific submission stages. For example, you may create a “Review ethics compliance” task during Submission or a “Translate abstract” task during Production.
-These may be created by editors as needed, generated from templates defined by the Journal Manager, or automatically opened at specific workflow stages based on journal settings. Journal Managers can configure automated tasks/discussions and templates - see [Learning OJS 3.6 for Journal Managers](../../journal-managers/en/policies#tasks-templates) for detailed information.
+
+Tasks are actionable to-do items that can be assigned to specific users and tracked with due dates. Use tasks to identify, track, and share related files to action items that need to be completed during specific submission stages. For example, you may create a “Review ethics compliance” task during Submission or a “Translate abstract” task during Production. These may be created by editors as needed, generated from templates defined by the Journal Manager, or automatically opened at specific workflow stages based on journal settings. 
 
 All roles should understand how to effectively use tasks and discussions.
 
 ### Create a Task or Discussion {#create-discussion}
 
-Click the “Add” button in the stage’s tasks & discussion panel to begin a new task or discussion. Be sure to use the panel corresponding to the current stage to ensure that communications are relevant.
+The ORE platform uses tasks extensively to manage the various checks that must be completed with each stage of the submission. You will find that tasks are automatically added to the Tasks & Discussions panel. These will be reviewed more closely in subsequent chapters. For now, take the time to get familiar with this panel and how tasks and discussions are managed.
 
-![The Discussion panel of the Submission stage with the Add discussion button.](./assets/disc-panel-3.5.png)
+![The Desk Review Tasks & Discussion panel of the Submission stage with a cursor hovering over the Add button.](./assets/task-disc-panel-ore.png)
+
+In addition to the tasks automatically associated with the stage (i.e. “Pre-check management”), you can click the “Add” button in the stage’s tasks & discussion panel to begin a new task or discussion. Be sure to use the panel corresponding to the current stage to ensure that communications are relevant.
 
 This opens the slide-out window for adding a task/discussion.
 
 Enter a title. Alternatively, you can search for an existing template by its title.
-![Caption.](./assets/URL.png)
+![The slide-out window with field to enter the task/discussion name and a list of selectable participants. On the left is a search bar for searching templates and a list of available task templates.](./assets/task-disc-panel-3.6.png)
 Then choose the participants you would like to include in the task and/or discussion.
 
 > **Who can access discussions?**
@@ -195,20 +198,16 @@ Then choose the participants you would like to include in the task and/or discus
 > Other roles, such as Section Editors, Reviewers, Authors, Copyeditors, etc., will *only see discussions where they have been selected as participants*.
 > Authors and Reviewers will not be able to use discussions to communicate with each other in Anonymous review.
 
-Click “Enter task information” to identify this as a task. You can select an appropriate due date from the calendar, assign a participant as being responsible for the task, and choose whether the task should start immediately.
-![Caption.](./assets/URL.png)
+Click “Enter task information” to identify this as a task. You can select an appropriate due date from the calendar, assign a participant as being responsible for the task, and choose whether the task should start immediately. You can skip this section if you only want to start a discussion thread.
+![In this example, “Enter Task Information” has been checked off, and a due date has been entered.](./assets/task-info-3.6.png)
 In the Discussion area, you can enter a message. For a task, this might include an overview of the task and specific instructions on how to complete it. For a discussion, this may simply be questions or information you wish to share with the participants.
-![Caption.](./assets/URL.png)
 
 You can also attach a file to the message.
 To attach a file:
-1. Click Attach File and select Upload File to upload a new file, or Workflow Files to choose a file that is already included with the submission.
-2. Identify the file you are uploading. If you are uploading a revision of the manuscript or a data set, choose the corresponding type. You can use “Other” for unrelated attachments.
-3. Drag and drop the file you wish to upload, or press Upload File to use the File Browser. Click Continue.
-4. Rename the file and fill out the optional information fields as necessary. Click continue.
-5. Press the Complete button after your file has been successfully uploaded.
+1. Click Attach File and select Upload File to upload a file independent from the workflow, or Workflow Files to choose a file that is already included with the submission.
+2. Select the file you wish to upload from your computer, or the relevant file from the list of Workflow Files. Click Attach File.
 
-![Image.](./assets/URL.png)
+![A sample discussion field populated with instructions. A file has been attached with the option to remove directly beside it.](./assets/task-disc-attach-3.6.png)
 
 You can edit or delete any attached files by clicking “Remove” next to the file.
 Click Save to add your task or discussion. 
@@ -218,12 +217,12 @@ Click Save to add your task or discussion.
 ### Read and Reply to a Task or Discussion {#read-reply}
 
 Created tasks and discussions will be added to the Tasks & Discussions panel for the relevant stage. 
-![Caption.](./assets/URL.png)
+![The list of tasks and discussions showing a single task in progress marked “started”.](./assets/task-list-3.6.png)
 You can easily see due dates, the owner and status of the task/discussion, as well as who sent the most recent reply, when the reply was sent, and the number of replies. 
 
 To open a task/discussion, click the subject of in the Tasks & Discussions panel.
 
-![An example discussion between the author and Editors, including an attachment and an option to Add a message.](./assets/URL.png)
+![An example discussion between the author and Editors, including an attachment and an option to Add New Message.](./assets/add-disc-message-3.6.png)
 
 All participants as well as all messages will be displayed in the window. Attached files are displayed below their messages. You can download the file by clicking the filename.
 
@@ -234,7 +233,8 @@ When you are ready to send the message and any attachments, click OK at the bott
 > Creating tasks and discussions will send an email containing the message and attachment to participants. However, replying to this email from your inbox *will NOT log the communication in OJS*. If you wish to have a complete log of communication in OJS, users should be encouraged to use the Tasks & Discussions panel to reply.
 {:.tip}
 
-If you have completed a task assigned to you, click the name of the task and check the box next to “Complete this task”.
-![Caption.](./assets/URL.png)
-Editors can also start tasks that have not yet been started, and mark tasks and discussions as closed. Only Editors can reply to tasks/discussions marked as closed or reopen them.
-![Caption.](./assets/URL.png)
+If you have completed a task assigned to you, click the name of the task and check the box next to “Complete this task” under “Task Information”. You can also close a task/discussion by clicking the checkbox in the “Close” column from the list of tasks.
+> Note that while discussions can be reopened by Editors once closed, **tasks can never be reopened**. Be cautious when closing tasks. New messages can still be added to the task or discussion even after it is closed.
+{:.warning}
+![A task that has been closed using the close checkbox. The task is now in the “Closed” list.](./assets/URL.png)
+
