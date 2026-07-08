@@ -2,7 +2,7 @@
 
 In OJS 3.6, the option to enable and moderate public comments on articles was added. Comments are already enabled on the ORE platform, but can be disabled if needed.
 
-To enable or disable commenting, visit the Content tab under Website Settings from the left sidebar. From here, check or uncheck the box next to Enable Public Comments and click “Save”.
+To enable or disable commenting, Journal Managers can visit the Content tab under Website Settings from the left sidebar. From here, check or uncheck the box next to Enable Public Comments and click “Save”.
 ![The Comments section of the Content tab in OJS, showing a checkbox next to “Enable Public Comments”.](./assets/enable-comments.png)
 
 Disabling this option will hide all existing comment sections from view.
