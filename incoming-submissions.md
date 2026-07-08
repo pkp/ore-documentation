@@ -80,3 +80,34 @@ If more discussion is needed to make a decision, for example between the assigne
 
 
 ## Publish Accepted Submissions as Published Manuscript Under Review {#publish}
+
+As part of the publish, review, curate model, you will now publish the manuscript while it undergoes review.
+
+Click “Publication” to expand the Publication menu. You will want to review the publication’s metadata and upload a galley file using the other items under the Publication menu. 
+* [Learn about galley formats and how to upload them](https://docs.pkp.sfu.ca/learning-ojs/editorial-workflow/en/production#what-galleys-formats-can-ojs-accept)
+* [Learn about the other fields in the Publication menu](https://docs.pkp.sfu.ca/learning-ojs/editorial-workflow/en/production#finalize-details) 
+
+When you have reviewed the submission’s metadata and added a galley for the manuscript, move to Publication Settings.
+
+![The publication settings page under the publication menu.](./assets/publication-settings.png)
+
+
+On the Publication Settings page:
+Select “Don’t Assign to An Issue” under Issue Assignment
+Verify that the appropriate section is selected under Section
+Use “Select Categories” to select all appropriate categories.
+Click “Save”.
+
+
+When you are ready to post the manuscript, click “Schedule for Publication”.
+![A cursor hovering over the “Schedule for Publication” button at the top right of the publication settings window.](./assets/schedule-button.png)
+
+
+
+This will open the Review Publishing details window. Open the Publication Stage dropdown and select “Published Manuscript Under Review (PMUR)”.
+
+![The Review Publishing Details window, with a cursor hovering over “Published Manuscript Under Review” in the Publication Stage dropdown.](./assets/schedule-button.png)
+
+
+Click “Confirm”, then review the confirmation message that appears before clicking “Publish”. This will publish an unreviewed version of the manuscript to the ORE site that can later be updated once it has been refereed.
+
