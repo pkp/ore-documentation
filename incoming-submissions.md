@@ -54,7 +54,7 @@ Tasks essential to the ORE workflow are automatically assigned at each stage of 
 
 Click the three dot icon to expand the options menu and select edit. Assign yourself or the editor responsible for completing the check as a participant, and mark them as responsible for the task. Edit the due date as necessary.
 
-![The task description - the editor is selected as a participant in the task and is also assigned as the person responsible for the task](./assets/precheck-edit.png)
+![The task description - the editor is selected as a participant in the task and is also assigned as the person responsible for the task](./assets/assign-check.png)
 
 
 The assignee can view the details of the task by clicking the task name. Messages and files can be added to the task as described in the [Tasks and Discussions section of the Editorial Dashboard](./dashboard#tasks-discussions)]. 
