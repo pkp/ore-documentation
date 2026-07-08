@@ -106,7 +106,7 @@ When you are ready to post the manuscript, click “Schedule for Publication”.
 
 This will open the Review Publishing details window. Open the Publication Stage dropdown and select “Published Manuscript Under Review (PMUR)”.
 
-![The Review Publishing Details window, with a cursor hovering over “Published Manuscript Under Review” in the Publication Stage dropdown.](./assets/schedule-button.png)
+![The Review Publishing Details window, with a cursor hovering over “Published Manuscript Under Review” in the Publication Stage dropdown.](./assets/publishing-confirm.png)
 
 
 Click “Confirm”, then review the confirmation message that appears before clicking “Publish”. This will publish an unreviewed version of the manuscript to the ORE site that can later be updated once it has been refereed.
