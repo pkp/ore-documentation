@@ -57,7 +57,7 @@ Click the three dot icon to expand the options menu and select edit. Assign your
 ![The task description - the editor is selected as a participant in the task and is also assigned as the person responsible for the task](./assets/assign-check.png)
 
 
-The assignee can view the details of the task by clicking the task name. Messages and files can be added to the task as described in the [Tasks and Discussions section of the Editorial Dashboard](./dashboard#tasks-discussions)]. 
+The assignee can view the details of the task by clicking the task name. Messages and files can be added to the task as described in the [Tasks and Discussions section of the Editorial Dashboard](./dashboard#tasks-discussions). 
 
 
 ## Reject or Prepare for Review {#reject-or-review}
