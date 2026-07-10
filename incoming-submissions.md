@@ -20,7 +20,7 @@ When an author makes a new submission, Editor(s) will be automatically emailed a
 > * If there is only one user appointed to an Editor or Journal Manager role, that user will be automatically assigned and notified. 
 > * If one or more Editors are [⇲assigned to the section](https://docs.pkp.sfu.ca/learning-ojs/journal-managers/en/policies.md#edit-section) the submission was made in, they will be automatically assigned to the submission and notified.
 > * If one or more Editors are [⇲assigned to a category](https://docs.pkp.sfu.ca/learning-ojs/journal-managers/en/policies.md#categories) the submission was made in, they will be automatically assigned to the submission and notified.
-> * Additional contacts for new submission notifications can be customized from Settings > Workflow > Emails. See [Configure Email Settings in Learning OJS for Journal Managers](https://docs.pkp.sfu.ca/learning-ojs/journal-managers/en/communications.md#email-config) for more details.
+> * Additional contacts for new submission notifications can be customized from Settings > Workflow > Emails. See [⇲Configure Email Settings in Learning OJS for Journal Managers](https://docs.pkp.sfu.ca/learning-ojs/journal-managers/en/communications.md#email-config) for more details.
 
 You can change your personal notification settings by clicking the user menu from the top right and accessing Edit Profile > Notifications.
 
