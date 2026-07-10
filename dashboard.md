@@ -120,7 +120,7 @@ In the central panel of the Submission Record, you will see:
 
 **Files**: This panel lists the files associated with the stage. The title of this panel will change between stages—for example, in the Submission stage, it will include any files uploaded with the submission, while in the Copyediting stage, there will be two panels: one for draft files needing copyediting, and one for files that have been fully copyedited.
 
-**Tasks & Discussions**: This panel allows participants in a stage to create tasks and communicate with the author, or with others on the editorial team. Using discussions and tasks to collaborate with authors, reviewers, and other members of your editorial team will be an important part of using OJS effectively, so we will cover them in-depth in [a dedicated section further below](/#tasks-discussions).
+**Tasks & Discussions**: This panel allows participants in a stage to create tasks and communicate with the author, or with others on the editorial team. Using discussions and tasks to collaborate with authors, reviewers, and other members of your editorial team will be an important part of using OJS effectively, so we will cover them in-depth in [a dedicated section further below](./#tasks-discussions).
 
 The content of the central panel will change between stages. Please consult the chapter for your current stage for further information.
 
