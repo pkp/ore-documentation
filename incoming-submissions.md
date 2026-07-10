@@ -18,8 +18,8 @@ When an author makes a new submission, Editor(s) will be automatically emailed a
 >  Automatic assignments and notifications about a new submission are reliant on the journal settings selected by the Journal Manager. 
 >
 > * If there is only one user appointed to an Editor or Journal Manager role, that user will be automatically assigned and notified. 
-> * If one or more Editors are [assigned to the section](https://docs.pkp.sfu.ca/learning-ojs/journal-managers/en/policies.md#edit-section) the submission was made in, they will be automatically assigned to the submission and notified.
-> * If one or more Editors are [assigned to a category](https://docs.pkp.sfu.ca/learning-ojs/journal-managers/en/policies.md#categories) the submission was made in, they will be automatically assigned to the submission and notified.
+> * If one or more Editors are [⇲assigned to the section](https://docs.pkp.sfu.ca/learning-ojs/journal-managers/en/policies.md#edit-section) the submission was made in, they will be automatically assigned to the submission and notified.
+> * If one or more Editors are [⇲assigned to a category](https://docs.pkp.sfu.ca/learning-ojs/journal-managers/en/policies.md#categories) the submission was made in, they will be automatically assigned to the submission and notified.
 > * Additional contacts for new submission notifications can be customized from Settings > Workflow > Emails. See [Configure Email Settings in Learning OJS for Journal Managers](https://docs.pkp.sfu.ca/learning-ojs/journal-managers/en/communications.md#email-config) for more details.
 
 You can change your personal notification settings by clicking the user menu from the top right and accessing Edit Profile > Notifications.
@@ -84,8 +84,8 @@ If more discussion is needed to make a decision, for example between the assigne
 As part of the publish, review, curate model, you will now publish the manuscript while it undergoes review.
 
 Click “Publication” to expand the Publication menu. You will want to review the publication’s metadata and upload a galley file using the other items under the Publication menu. 
-* [Learn about galley formats and how to upload them](https://docs.pkp.sfu.ca/learning-ojs/editorial-workflow/en/production#what-galleys-formats-can-ojs-accept)
-* [Learn about the other fields in the Publication menu](https://docs.pkp.sfu.ca/learning-ojs/editorial-workflow/en/production#finalize-details) 
+* [⇲Learn about galley formats and how to upload them](https://docs.pkp.sfu.ca/learning-ojs/editorial-workflow/en/production#what-galleys-formats-can-ojs-accept)
+* [⇲Learn about the other fields in the Publication menu](https://docs.pkp.sfu.ca/learning-ojs/editorial-workflow/en/production#finalize-details) 
 
 When you have reviewed the submission’s metadata and added a galley for the manuscript, move to Publication Settings.
 
