@@ -64,7 +64,7 @@ Use **Filters** to further narrow down your search.
 
 - __Issues:__ Only Journal Manager level roles can filter by unpublished issues, but other editors will be able to filter by published issues. This field is case-sensitive and requires an exact match. For best results, search by year or title, rather than volume or number. 
 
-- __Categories:__ Choose a submission assigned to a specific category. This option is only available if the Journal Manager has set up at least one customized [category](https://docs.pkp.sfu.ca/learning-ojs/journal-managers/en/policies.md#categories).
+- __Categories:__ Choose a submission assigned to a specific category. This option is only available if the Journal Manager has set up at least one customized [⇲category](https://docs.pkp.sfu.ca/learning-ojs/journal-managers/en/policies#categories).
 
 - __Days Since Last Activity:__ Specify the number of days since the last activity using the slider or the textbox.
 
@@ -88,7 +88,7 @@ Editors receive a weekly email summary of submissions which require editorial ac
 * Newly submitted revisions
 * Submissions in the copyediting or production stages which have been inactive for 30 or more days
 
-An editor can opt out of email notifications by changing [notification settings in their profile](https://docs.pkp.sfu.ca/learning-ojs/about-ojs/en/#edit-profile) or clicking on the unsubscribe link.
+An editor can opt out of email notifications by changing [⇲notification settings in their profile](https://docs.pkp.sfu.ca/learning-ojs/about-ojs/en/#edit-profile) or clicking on the unsubscribe link.
 
 ## Get to Know the Submission Record {#submission-record}
 
@@ -106,7 +106,7 @@ The **Workflow menu**: This where you can view the work for this Submission in e
 
 > Note: Depending on your role, you may only have access to a limited number of workflow stages. For example, Copyeditors typically only have access to the Copyediting stage. 
 
-The **Publication menu**: This where you will make edits to information and files related to the final published version of a submission. For example, you can edit the title and abstract, list of contributors, keywords and other metadata, as well as schedule the issue for publication. This menu is covered in depth in the [Publication section of this guide](./#publication.md). You can click “Publication” to expand or collapse these options.
+The **Publication menu**: This where you will make edits to information and files related to the final published version of a submission. For example, you can edit the title and abstract, list of contributors, keywords and other metadata, as well as schedule the issue for publication. This menu is covered in depth in the [Publication section of this guide](./#publication). You can click “Publication” to expand or collapse these options.
 
 ### The Central Panel: Files, Tasks, and Discussions {#central-panel}
 
@@ -161,7 +161,7 @@ The **Notes** tab of the Activity Log can be used to add editorial notes. These 
 
 **Library**: The Library is accessible to Authors and Editors from the top right of every submission page. It is a general file storage for documents that may include conflict-of-interest forms, galley approval forms, etc. 
 
-This submission-specific Library is distinct from the journal-wide [Publisher Library](https://docs.pkp.sfu.ca/learning-ojs/journal-managers/en/other-tools.md#publisher-library), which can generate public links for uploaded content.
+This submission-specific Library is distinct from the journal-wide [⇲Publisher Library](https://docs.pkp.sfu.ca/learning-ojs/journal-managers/en/other-tools#publisher-library), which can generate public links for uploaded content.
 
 Users throughout the editorial workflow can access all the files in the Publisher Library by opening the submission-specific Library and clicking "View Document Library".
 
