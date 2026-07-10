@@ -106,7 +106,7 @@ The **Workflow menu**: This where you can view the work for this Submission in e
 
 > Note: Depending on your role, you may only have access to a limited number of workflow stages. For example, Copyeditors typically only have access to the Copyediting stage. 
 
-The **Publication menu**: This where you will make edits to information and files related to the final published version of a submission. For example, you can edit the title and abstract, list of contributors, keywords and other metadata, as well as schedule the issue for publication. This menu is covered in depth in the [Publication section of this guide](./#publication). You can click “Publication” to expand or collapse these options.
+The **Publication menu**: This where you will make edits to information and files related to the final published version of a submission. For example, you can edit the title and abstract, list of contributors, keywords and other metadata, as well as schedule the issue for publication. This menu is covered in depth in the [Publication section of this guide](./publication). You can click “Publication” to expand or collapse these options.
 
 ### The Central Panel: Files, Tasks, and Discussions {#central-panel}
 
