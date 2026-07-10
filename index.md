@@ -16,5 +16,5 @@ Once you have been assigned the Editor role, you are ready to evaluate and manag
 - Open Peer Review: In Progress - [See OJS 3.5 Docs](https://docs.pkp.sfu.ca/learning-ojs/editorial-workflow/en/review) for Closed Peer Review instructions
 - [Copyediting: Assign Copyeditors and Upload Edited Files](https://docs.pkp.sfu.ca/learning-ojs/editorial-workflow/en/copyedit) [View OJS 3.5 Docs]
 - [Production: Prepare Final File Formats and Finalize Details](https://docs.pkp.sfu.ca/learning-ojs/editorial-workflow/en/production) [View OJS 3.5 Docs]
-- Publication & Post-Publication: In Progress
+- [Publication & Post-Publication: In Progress](./publication)
 - [Moderating Comments](./comments)
